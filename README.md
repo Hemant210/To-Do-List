@@ -1,4 +1,4 @@
 # To-Do-List
-This is my first git repositry 
+TO-DO List Small project 
 <br>
 Author - Hemant Sopan Patil(A)
